@@ -9,6 +9,7 @@ import (
 
 	"github.com/joho/godotenv"
 	_ "github.com/joho/godotenv/autoload"
+	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api"
 )
 
 var (

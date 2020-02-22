@@ -1,6 +1,6 @@
 ---
 start:
   messages:
-  - type:
-    duration:
-    content:
+  - type: Message
+    duration: 2s
+    content: ""
